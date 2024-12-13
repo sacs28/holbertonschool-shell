@@ -1,2 +1,4 @@
 #!/bin/bash
-cd ..
+# Change to the previous working directory
+cd "$OLDPWD" || exit
+pwd
