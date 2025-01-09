@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "data" > testdir/subdir/largefile.gif
